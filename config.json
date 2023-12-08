@@ -1,0 +1,15 @@
+{
+  "provider_http" : "https://mainnet.infura.io/v3/9aa3d95b3bc440fa88ea12eaa4456161",
+  "wallet_address": "0xe59ec378c5bd6e2CBEBCabF8F23fC323bFcD63C2",
+  "private_key": "227144825e67a09f5eb1bd36cb318985c7ac196ddc229664a3ef8e2400b03a59",
+  "new_token_address": "0xeefd001c893109fc6d5b5c06dfec817a11c3945f",
+  "take_profit": 10,
+  "gas_price": 16,
+  "gas_limit": 220000,
+  "slippage": 100,
+  "speed": 1,
+  "buy_amount": 0.001,
+  "buy_type": 1,
+  "buy_token_amount": 100,
+  "max_eth_amount": 0.001
+}
